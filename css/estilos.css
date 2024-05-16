@@ -134,7 +134,7 @@ footer {
     background: linear-gradient(to right, #0000CD, #00BFFF);
     color: #fff;
     font-size: 14pt;
-    padding: 1rem;
+    padding: 0.5rem;
     text-align: center;
     text-shadow: 1px 1px 1px #2b2a2a;
 }
@@ -147,16 +147,17 @@ footer {
     height: 5%;
 }
 
-/* Imagem mundial */
+/* Primeira Imagem mundial */
 #logo-topo{
     width: 20%;  /* 10 */
     height: 17%;  /* 7 */
     margin-left: 5rem;
 }
 
+/* Segunda imagem */
 .imagens-corpo{
     width: 95%;
-    height: 80%;
+    height: 75%;
 }
 
 #whats{
