@@ -5,6 +5,13 @@ html, body {
     /*height: 100%; */
     }
 
+/* Container */
+.container {
+    max-width: 1600px;
+    padding: 4%;
+    background: linear-gradient(to right, #0000CD, #8bd2ec);
+}
+
 /*Cabecalho */
 .cabecalhoesquerda {
     background: linear-gradient(to right, #0000CD, #00BFFF);
