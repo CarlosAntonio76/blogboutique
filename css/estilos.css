@@ -7,7 +7,7 @@ html, body {
 
 /* Container */
 .container {
-    max-width: 1600px;
+    max-width: 1200px;
     padding: 4%;
     background: linear-gradient(to right, #0000CD, #8bd2ec);
 }
@@ -24,7 +24,8 @@ html, body {
 
 main {
     font-size: 1.6rem;
-    background: linear-gradient(to right, #c1c1ee, #c7d9df);
+    background: linear-gradient(to right, #0b0ba8, #00BFFF);
+    /*background: linear-gradient(to right, #c1c1ee, #c7d9df); */
     padding: 1.5rem;
     text-align: justify;
     margin: 0 auto;
@@ -199,13 +200,13 @@ footer {
 }
 
 .texto {
-    background-color:  #0097e6;
+    background: linear-gradient(to right, #0505ca, #00BFFF);
     color: rgb(247, 230, 230);
-    padding: 8px;
+    padding: 1.5rem;
     font-size: 50px;
     font-weight: bold;
     font-style: italic;
-    width: 100%;
+    max-width: 100%;
 }
 
 .txtp {
@@ -216,18 +217,18 @@ footer {
 
 .conteudo {
     font-size: 1.6rem;
-    /*background: linear-gradient(to right, #0000CD, #00BFFF); */
-    background-color: #fff;
+    background: linear-gradient(to right, #0000CD, #00BFFF); 
+    /*background-color: #fff; */
     padding: 1.5rem;
     text-align: justify;
     margin: 0 auto;
-    max-width: 95%;  /*1024px; */
+    max-width: 100%;  /*1024px; */
 }
 
 #grid-conteudo{
-    /*background-color: #6dbbe6; */
-    background-color: #067fbb;
+    background: linear-gradient(to right, #0000CD, #00BFFF);
     padding-top: 8rem; /* 38 */
+    max-width: 100%;
 }
 
 .grid{
